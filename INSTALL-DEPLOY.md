@@ -38,14 +38,22 @@ Your site is linked to a Git repository for continuous deployment.
 
 Current repository: github.com/heidless-stillwater/blog-astro-1
 
-## fonts
-- ### [astro font download](https://font.download/font/astro)
-```
-
-
-```
-
 ## images
 - ### [astro images](https://docs.astro.build/en/guides/images/)
 
 
+## fonts
+- ### [Using custom fonts](https://docs.astro.build/en/guides/fonts/)
+- ### [astro font download](https://font.download/font/astro)
+  - [fontsource](https://fontsource.org/)
+    - ### [https://fontsource.org/fonts/press-start-2p](https://fontsource.org/fonts/press-start-2p)
+```
+npm install @fontsource/twinkle-star
+
+# import font
+src/layouts/BaseLayout.astro
+---
+import '@fontsource/twinkle-star';
+---
+
+```
