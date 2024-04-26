@@ -38,5 +38,14 @@ Your site is linked to a Git repository for continuous deployment.
 
 Current repository: github.com/heidless-stillwater/blog-astro-1
 
+## fonts
+- ### [astro font download](https://font.download/font/astro)
+```
+
+
+```
+
+## images
+- ### [astro images](https://docs.astro.build/en/guides/images/)
 
 
