@@ -15,6 +15,12 @@ npm run dev
 
 ```
 
+# manage header
+```
+src/pages/index.astro
+
+```
+
 # deploy changes
 ```
 # update git
