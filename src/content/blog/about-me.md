@@ -12,9 +12,9 @@ description: Info on me
 
 # brief Biog & Timeline
 
-I'm long term IT - BSc Comp Science - 1989. Started career with Sun Microsystems startup in UK - 1990. UNIX based Env (Solaris). Contracted in The City over the Millenium. Burned out. Switched career to the Arts - Actor, Writer, Producer, Director. 
+TESTER: I'm long term IT - BSc Comp Science - 1989. Started career with Sun Microsystems startup in UK - 1990. UNIX based Env (Solaris). Contracted in The City over the Millenium. Burned out. Switched career to the Arts - Actor, Writer, Producer, Director.
 
-That period also involved delivering behavioural training in the Corporate Environment. Specifically, targetted at Team Mgmt & dealing with difficult conversations. Worked with numerous including BBC & International Banking UK, Europe, US & Asia. 
+That period also involved delivering behavioural training in the Corporate Environment. Specifically, targetted at Team Mgmt & dealing with difficult conversations. Worked with numerous including BBC & International Banking UK, Europe, US & Asia.
 
 Training strongly influenced by the Transactional Analysis Model. Simple yet Powerful.
 
