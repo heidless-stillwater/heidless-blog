@@ -10,6 +10,43 @@ tags:
 description: Info on me
 ---
 
-# [alpha blog](https://alpha-blog-svc-puvtj5sjaa-nw.a.run.app/articles)
+## [alpha blog](https://alpha-blog-svc-puvtj5sjaa-nw.a.run.app/articles)
 
-# [cat photo album](https://cat-photo-album-svc-puvtj5sjaa-nw.a.run.app)
+- ### link
+  - [alpha blog](https://alpha-blog-0-svc-d57dc7eqba-nw.a.run.app/)
+- ### login
+
+  - User 1: test1@test.com/password
+
+- ### Bloggers
+
+  - List all Bloggers registerd with the site (including 'Admin')
+  - All Users visible including their Articles
+
+- ### Articles
+
+  - create New Articles for current user
+  - 'View Articles'
+    - List ALL articles for ALL users
+  - category
+    - choose from list of categories
+    - new categories create under 'Catogories' menu
+
+- ### Categories
+
+  - 'Create New Category'
+    - ONLY Available to Admin user
+    - does what it says on the tin
+  - 'View Categories': lists all available categories for selection with Articles
+  - All Categories available to All Users
+
+- ### Profile(s)
+
+  - ################ Conceal 'admin' & 'user2' users #################
+  - Admin User: admin|admin@test.com |kkkhjkjkjk
+  - User 1: user1|user1@test.com |password
+  - User 2: user2|user2@test.com |password
+
+- ### test txt 2
+
+## [cat photo album](https://cat-photo-album-svc-puvtj5sjaa-nw.a.run.app)

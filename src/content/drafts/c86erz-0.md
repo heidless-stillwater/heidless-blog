@@ -30,7 +30,6 @@ Founder, Paul-Verral Walcott was featured in a compelling profile on The Russell
 
 View Profile: https://community.mimeworks.com/c86erz-russel-howard-hour/
 
-
 <hr />
 <hr />
 <hr />
