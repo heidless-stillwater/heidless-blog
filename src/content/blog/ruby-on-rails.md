@@ -10,6 +10,20 @@ tags:
 description: Info on me
 ---
 
+## [cat photo albun](https://cat-photo-album-0-svc-d57dc7eqba-nw.a.run.app/)
+
+- ### link
+  - [cat photo albun](https://cat-photo-album-0-svc-d57dc7eqba-nw.a.run.app/)
+- file upload functionality
+
+## [fin track](https://fin-track-0-svc-d57dc7eqba-nw.a.run.app/)
+
+- ### link
+  - [fin track](https://fin-track-0-svc-d57dc7eqba-nw.a.run.app/)
+- ### integrations
+  - sendgrid
+  - devise
+
 ## [alpha blog](https://alpha-blog-svc-puvtj5sjaa-nw.a.run.app/articles)
 
 - ### link
