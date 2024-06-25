@@ -1,28 +1,15 @@
 ---
 author: Rob Craig
 pubDatetime: 2023-01-30T15:57:52.737Z
-title: ruby on rails
-postSlug: ruby-on-rails
+title: RoR-APP-alpha-blog
+postSlug: RoR-APP-alpha-blog
 featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
-  - release
-description: Info on me
+  - ror
+  - alpha-blog
+description: Rubly on Rails App - alpha-blog
 ---
-
-## [fin track](https://fin-track-0-svc-d57dc7eqba-nw.a.run.app/)
-
-- ### link
-
-  - [fin track](https://fin-track-0-svc-d57dc7eqba-nw.a.run.app/)
-
-- ### Profile(s)
-  - ################ Conceal 'admin' & 'user2' users #################
-  - Admin User: admin|admin@test.com |kkkhjkjkjk
-  - User 1: user1|user1@test.com |password
-- ### integrations
-  - sendgrid
-  - devise
 
 ## [alpha blog](https://alpha-blog-svc-puvtj5sjaa-nw.a.run.app/articles)
 
@@ -60,11 +47,3 @@ description: Info on me
   - Admin User: admin|admin@test.com |kkkhjkjkjk
   - User 1: user1|user1@test.com |password
   - User 2: user2|user2@test.com |password
-
-- ### test txt 2
-
-## [cat photo albun](https://cat-photo-album-0-svc-d57dc7eqba-nw.a.run.app/)
-
-- ### link
-  - [cat photo albun](https://cat-photo-album-0-svc-d57dc7eqba-nw.a.run.app/)
-- file upload functionality
