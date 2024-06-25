@@ -14,7 +14,7 @@ description: Ruby on Rails App - alpha-blog
 ## [alpha blog](https://alpha-blog-0-svc-d57dc7eqba-ew.a.run.app/)
 
 - ### link
-  - [alpha blog](https://alpha-blog-0-svc-d57dc7eqba-ew.a.run.app))
+  - [alpha blog](https://alpha-blog-0-svc-d57dc7eqba-ew.a.run.app)
 - ### login
 
   - User 1: test1@test.com/password
