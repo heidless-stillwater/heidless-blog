@@ -16,7 +16,6 @@ description: Sourdough SweetHeart eCommerce Store
 
 Visit: https://sourdoughsweetheart.com/
 
-
 Shopify is a very powerful environment within which you can create & configure your Online Store.
 
 The tooling is geared to the Store Owner focusing on setting up their business while Shopify takes care of the technical stuff.
@@ -26,12 +25,15 @@ External integrations make linking to external Product Providers very easy.
 Which is a complicated way of saying you can source products, add your value & sell the result via your store.
 
 ## Sourdough SweetHeart: Product Sources
+
 - Print On Demand - example
+
   - Printify: large range of products available to customise with your own graphics
   - e.g. https://sourdoughsweetheart.com/products/love-thy-baker-cork-back-coaster
   - <img src="https://storage.cloud.google.com/frontend-bucket-0/sdsh/cork-back-coaster-front-637e1ba8b1882.webp" width=500 alt="Love Thy Baker Coasters" />
 
 - Amazon Associates
+
   - Source & Sell existing Amazon Products via your own Store
   - e.g. https://sourdoughsweetheart.com/products/pizza-stones-non-stick-cast-iron-pizza-bread-scones-durable-baking-stone-plate-for-tarts-muffins-bbq-quiches-cakes
 

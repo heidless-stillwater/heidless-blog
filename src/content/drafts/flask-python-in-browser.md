@@ -25,4 +25,3 @@ Visit Site: https://python-sandbox-381010.nw.r.appspot.com/
 The focus here has been simply on running the app in browser.
 
 Will be building this out to a valid Portfolio App.
-
