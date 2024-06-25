@@ -8,7 +8,7 @@ ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2
 tags:
   - ror
   - alpha-blog
-description: Rubly on Rails App - alpha-blog
+description: Ruby on Rails App - alpha-blog
 ---
 
 ## [alpha blog](https://alpha-blog-svc-puvtj5sjaa-nw.a.run.app/articles)
