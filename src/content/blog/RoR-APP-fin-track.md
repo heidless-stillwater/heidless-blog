@@ -11,11 +11,11 @@ tags:
 description: Ruby on Rails App - alpha-blog
 ---
 
-## [fin track](https://fin-track-0-svc-d57dc7eqba-nw.a.run.app/)
+## [fin track](https://fin-track-0-svc-d57dc7eqba-ew.a.run.app/)
 
 - ### link
 
-  - [fin track](https://fin-track-0-svc-d57dc7eqba-nw.a.run.app/)
+  - [fin track](https://fin-track-0-svc-d57dc7eqba-ew.a.run.app/)
 
 - ### Profile(s)
   - ################ Conceal 'admin' & 'user2' users #################
