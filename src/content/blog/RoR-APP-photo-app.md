@@ -13,10 +13,19 @@ tags:
 description: Ruby on Rails App - photo-app
 ---
 
-## [photo-app](https://photo-app-0-svc-d57dc7eqba-ew.a.run.app/)
+<!-- ## [photo-app](https://photo-app-0-svc-d57dc7eqba-ew.a.run.app/) -->
+
+## [photo-app](https://fundingcloud.co.uk/)
+
+- ### integrations
+
+  - ### devise
+    - registration confirmation by email
+      - activation via email
+  - active_record
 
 - ### link
-  - [photo-app](https://photo-app-0-svc-d57dc7eqba-ew.a.run.app/)
+  - [photo-app](https://fundingcloud.co.uk/)
 - ### login
 
   - User 1: test1@test.com/password
