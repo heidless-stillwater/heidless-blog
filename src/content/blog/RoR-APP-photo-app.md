@@ -10,6 +10,7 @@ tags:
   - ruby-on-rails
   - devise
   - sendgrid
+  - gcloud-domain-mapping
 description: Ruby on Rails App - photo-app
 ---
 
@@ -17,44 +18,23 @@ description: Ruby on Rails App - photo-app
 
 ## [photo-app](https://fundingcloud.co.uk/)
 
+- ### link
+
+  - [photo-app](https://fundingcloud.co.uk/)
+
+- ### login
+
+  - User 1: heidlessemail05@gmail.com/password
+
 - ### integrations
 
   - ### devise
     - registration confirmation by email
-      - activation via email
-  - active_record
-
-- ### link
-  - [photo-app](https://fundingcloud.co.uk/)
-- ### login
-
-  - User 1: test1@test.com/password
-
-- ### Bloggers
-
-  - List all Bloggers registerd with the site (including 'Admin')
-  - All Users visible including their Articles
-
-- ### Articles
-
-  - create New Articles for current user
-  - 'View Articles'
-    - List ALL articles for ALL users
-  - category
-    - choose from list of categories
-    - new categories create under 'Catogories' menu
-
-- ### Categories
-
-  - 'Create New Category'
-    - ONLY Available to Admin user
-    - does what it says on the tin
-  - 'View Categories': lists all available categories for selection with Articles
-  - All Categories available to All Users
-
-- ### Profile(s)
-
-  - ################ Conceal 'admin' & 'user2' users #################
-  - Admin User: admin|admin@test.com |kkkhjkjkjk
-  - User 1: user1|user1@test.com |password
-  - User 2: user2|user2@test.com |password
+    - activation via email
+  - ### sendgrid
+    - proxy enable email comms via app
+  - ### Google Cloud Domain Mapping
+    - used to enable sendgrid email comms
+  - ### active_record
+    - used to enable image persistence
+    - live deploy uses Google Cloud Srage
