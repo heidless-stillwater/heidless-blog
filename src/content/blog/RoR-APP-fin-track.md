@@ -8,6 +8,8 @@ ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2
 tags:
   - fin-track
   - ruby-on-rails
+  - cloud-run
+  - docker
   - devise
   - IEX-Api
 description: Ruby on Rails App - fin-track

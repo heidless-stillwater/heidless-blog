@@ -9,6 +9,7 @@ tags:
   - cloud-sql
   - app-engine
   - cloud-run
+  - docker
   - cloud-storage
   - cloud-secret-mgmt
 description: Full stack Cloud Computing Services

@@ -8,6 +8,8 @@ ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2
 tags:
   - cat-photo-albun
   - ruby-on-rails
+  - cloud-run
+  - docker
 description: Ruby on Rails App - cat-photo-albun
 ---
 

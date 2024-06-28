@@ -12,6 +12,7 @@ tags:
   - React
   - App Engine
   - Cloud Run
+  - docker
   - Google Cloud
 description: Full Stack Portfolio App. dJango backend. NextJS frontend. Deployed on Google App Engine & Cloud Run. Supported by Google SQL Cloud Storage
 ---
