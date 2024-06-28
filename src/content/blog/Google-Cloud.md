@@ -17,4 +17,16 @@ description: Full stack Cloud Computing Services
 
 ## [Google Cloud](https://cloud.google.com/?hl=en)
 
-Backend/Frontend deployment for Ruby on Rails, dJango & REACT
+Full Stack deployment for Ruby on Rails, dJango & REACT
+
+Backends enabled thru:
+
+- Cloud Storage
+- Cloud SQL (POSTGRES)
+- App Engine
+- Secret Mgr
+
+Frontends enabled thru:
+
+- Docker (Rails & REACT)
+- Cloud Run
