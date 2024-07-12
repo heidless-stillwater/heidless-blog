@@ -14,7 +14,7 @@ tags:
   - Cloud Run
   - docker
   - Google Cloud
-description: This Site. Full Stack Portfolio App. dJango backend. NextJS frontend. Deployed on Google App Engine & Cloud Run. Supported by Google SQL Cloud Storage
+description: This Site. Full Stack Portfolio App. dJango backend. NextJS frontend. Deployed on Google App Engine & Cloud Run. Supported by Google Cloud SQL & Cloud Storage
 ---
 
 ## [scrumming IT: portfolio](https://heidless-pfolio-5-frontend-svc-n4qfxr4yra-ew.a.run.app/)
