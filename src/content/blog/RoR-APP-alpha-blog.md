@@ -13,14 +13,16 @@ tags:
 description: Ruby on Rails App - multi-user Blog env
 ---
 
-## [alpha blog](https://alpha-blog-0-svc-d57dc7eqba-ew.a.run.app/)
+## [alpha blog](https://robertlockhart.com/)
 
 - ### overview
 
   - Multi-user blog environment.
 
 - ### link
-  - [alpha blog](https://alpha-blog-0-svc-d57dc7eqba-ew.a.run.app)
+
+  - [alpha blog](https://robertlockhart.com/)
+
 - ### login
 
   - User 1: test1@test.com/password
@@ -48,8 +50,4 @@ description: Ruby on Rails App - multi-user Blog env
   - All Categories available to All Users
 
 - ### Profile(s)
-
-  - ################ Conceal 'admin' & 'user2' users #################
-  - Admin User: admin|admin@test.com |kkkhjkjkjk
   - User 1: user1|user1@test.com |password
-  - User 2: user2|user2@test.com |password
