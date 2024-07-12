@@ -8,21 +8,22 @@ ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2
 tags:
   - photo-app
   - cloud-run
+  - AWS
+  - AWS S3
+  - S3
   - docker
   - ruby-on-rails
   - devise
   - sendgrid
   - gcloud-domain-mapping
-description: Ruby on Rails App - photo-app
+description: Ruby on Rails App - photo mgmnt app
 ---
 
-<!-- ## [photo-app](https://photo-app-0-svc-d57dc7eqba-ew.a.run.app/) -->
-
-## [photo-app](https://fundingcloud.co.uk/)
+## <a href="https://fundingcloud.co.uk/" target="_blank">photo app</a>
 
 - ### link
 
-  - [photo-app](https://fundingcloud.co.uk/)
+  - <a href="https://fundingcloud.co.uk/" target="_blank">photo app</a>
 
 - ### login
 
@@ -39,4 +40,5 @@ description: Ruby on Rails App - photo-app
     - used to enable sendgrid email comms
   - ### active_record
     - used to enable image persistence
-    - live deploy uses Google Cloud Srage
+      - uses AWS S3 for image storage
+    - live deploy uses Google Cloud

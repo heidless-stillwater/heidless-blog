@@ -10,7 +10,7 @@ tags:
   - ruby-on-rails
   - cloud-run
   - docker
-description: Ruby on Rails App - alpha-blog
+description: Ruby on Rails App - multi-user Blog env
 ---
 
 ## [alpha blog](https://alpha-blog-0-svc-d57dc7eqba-ew.a.run.app/)

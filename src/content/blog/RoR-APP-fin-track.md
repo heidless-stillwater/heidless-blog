@@ -12,7 +12,7 @@ tags:
   - docker
   - devise
   - IEX-Api
-description: Ruby on Rails App - fin-track
+description: Ruby on Rails App - finance tracker & social network
 ---
 
 ## [fin track](https://fin-track-0-svc-d57dc7eqba-ew.a.run.app/)
@@ -29,11 +29,9 @@ description: Ruby on Rails App - fin-track
 
 - ### link
 
-  - [fin track](https://fin-track-0-svc-d57dc7eqba-ew.a.run.app/)
+  - <a href="https://naught4profit.com/" target="_blank">fin track</a>
 
 - ### Profile(s)
-  - ################ Conceal 'admin' & 'user2' users #################
-  - Admin User: admin|admin@test.com |kkkhjkjkjk
   - User 1: user1|user1@test.com |password
 - ### integrations
   - #### devise
