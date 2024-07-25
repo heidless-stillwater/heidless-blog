@@ -8,7 +8,7 @@ ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2
 tags:
   - arts
   - portfolio
-description: SaaS: Base Install
+description: SaaS - Base Install
 ---
 
 ## [SaaS: Base Install](https://rails-v6-1-7-base-0-svc-twqalc5jda-ew.a.run.app)
