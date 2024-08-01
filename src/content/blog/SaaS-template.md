@@ -16,3 +16,17 @@ description: SaaS Base Template
 Aim is to start new SaaS project you off with all the features that are the same in every product.
 
 Allows focus on what makes app unique.
+
+Current 'standard' functionality:
+
+- Devise Credentials Mgmt
+
+  - Standard sign-up & sign-in functionality
+  - Email Confirmation of Sign-Up
+
+- SendGrid
+
+  - SignUp Confirmation.
+
+- Stripe
+  - SignUp dependent on successful payment
