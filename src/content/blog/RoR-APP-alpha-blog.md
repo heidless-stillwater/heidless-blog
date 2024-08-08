@@ -13,7 +13,7 @@ tags:
 description: Ruby on Rails App - multi-user Blog env
 ---
 
-## [alpha blog](https://robertlockhart.com/)
+## <a href="https://robertlockhart.com/" target="_blank">alpha blog</a>
 
 - ### overview
 
@@ -21,11 +21,11 @@ description: Ruby on Rails App - multi-user Blog env
 
 - ### link
 
-  - [alpha blog](https://robertlockhart.com/)
+  - <a href="https://robertlockhart.com/" target="_blank">alpha blog</a>
 
 - ### login
 
-  - User 1: test1@test.com/password
+  - Login available on request...
 
 - ### Bloggers
 
@@ -50,4 +50,4 @@ description: Ruby on Rails App - multi-user Blog env
   - All Categories available to All Users
 
 - ### Profile(s)
-  - User 1: user1|user1@test.com |password
+  - List ALL Users

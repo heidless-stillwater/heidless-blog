@@ -26,13 +26,20 @@ Backends enabled thru:
 - Cloud Storage
 - Cloud SQL (POSTGRES)
 - App Engine
+  - [Example: dJango Backend](https://scrummingit.co.uk/#tools)
+- Cloud Run (Docker)
+  - [Example: Ruby on Rails Apps](https://scrummingit.co.uk/#samples)
+  - Login details available on request...
 - Secret Mgr
 
-Frontend enabled thru:
+Frontends enabled thru:
 
 - Docker (Rails & REACT)
 - Cloud Run
+  - [Example: pFolio Frontend](https://scrummingit.co.uk/#tools)
 
 ## AWS S3
 
 - using S3 specifically to store images & so enable persistence.
+  - [Example: Ruby on Rails Photo App](https://fundingcloud.co.uk/)
+  - Login details available on request...

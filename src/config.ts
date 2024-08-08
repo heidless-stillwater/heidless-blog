@@ -7,12 +7,12 @@ export const SITE: Site = {
   title: "scrumming IT",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 4,
 };
 
 export const LOGO_IMAGE = {
   enable: true,
-  svg: false, 
+  svg: false,
   width: 500,
   height: 100,
 };

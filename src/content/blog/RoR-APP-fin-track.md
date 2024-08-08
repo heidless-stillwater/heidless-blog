@@ -25,14 +25,16 @@ description: Ruby on Rails App - finance tracker & social network
   - Your personal portfolio shareable with 'friends'
   - NOTE: IEX Cloud API End of Life.
     - Stock functionality needs remediating.
-    - Social Networking functionnality still operations
+    - Social Networking functionnality still operational
 
 - ### link
 
   - <a href="https://naught4profit.com/" target="_blank">fin track</a>
 
 - ### Profile(s)
-  - User 1: user1|user1@test.com |password
+
+  - Login available on request...
+
 - ### integrations
   - #### devise
     - basic functionality to robustly handle user registrations & mgmt

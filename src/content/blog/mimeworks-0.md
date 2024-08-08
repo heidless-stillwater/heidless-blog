@@ -11,6 +11,6 @@ tags:
 description: Mimeworks - arts portfolio site
 ---
 
-## [mimeworks](https://mimeworks.com)
+## <a href="https://mimeworks.com" target="_blank">mimeworks</a>
 
 Artist Portfolio Site. Wordpress/Elementor site. Hosted on fasthosts.

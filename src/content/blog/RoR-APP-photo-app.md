@@ -27,17 +27,24 @@ description: Ruby on Rails App - photo mgmnt app
 
 - ### login
 
-  - User 1: heidlessemail05@gmail.com/password
+  - Login available on request...
 
 - ### integrations
 
   - ### devise
+
     - registration confirmation by email
     - activation via email
+
   - ### sendgrid
+
     - proxy enable email comms via app
+
   - ### Google Cloud Domain Mapping
+
+    - allows use of a Curstom Domain
     - used to enable sendgrid email comms
+
   - ### active_record
     - used to enable image persistence
       - uses AWS S3 for image storage
