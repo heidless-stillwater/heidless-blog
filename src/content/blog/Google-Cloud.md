@@ -17,7 +17,7 @@ tags:
 description: Full stack Cloud Computing Services - both Google Cloud & AWS
 ---
 
-## [Google Cloud](https://cloud.google.com/?hl=en)
+## Google Cloud
 
 Full Stack deployment for Ruby on Rails, dJango & REACT
 
