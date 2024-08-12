@@ -17,7 +17,7 @@ description: SaaS Base Template
 Goal is to be able to quickly spin up a fully provisioned new SaaS project.
 
 The 'standard' SaaS functionality is available out-of-the-box.
-s
+
 Allows focus on what makes the app unique.
 
 Current 'standard' functionality:
