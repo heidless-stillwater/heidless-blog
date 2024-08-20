@@ -13,13 +13,13 @@ More on TA here: http://changingminds.org/explanations/behaviors/ta.htm
 
 Rode that horse until late noughties.
 
-Returned to IT - initially as Dev then swifly transitioned to Scrum Master with the Behavoural Training being particularly applicable.
+Returned to IT - initially as Dev then transitioned to Scrum Master with the Behavoural Training being particularly applicable.
 
-Mid/Late teenies began to experience the consequence of an undiagnosed life-long ailment. Spent a good while dealing with that.
+Mid/Late teens began to experience the consequence of an undiagnosed life-long ailment. Spent a good while dealing with that.
 
 Finally figured out the issue and finally effectively treated. Been left with some mobility issues but otherwise fit & able.
 
-I've been updating my devops skills over the past 15 mths.
+I've been updating my devops skills over the past 20 mths or so.
 
 Initially tentative then with enthusiasm when I confirmed my skills we still very much applicable.
 
