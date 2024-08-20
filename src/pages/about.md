@@ -27,10 +27,8 @@ UNIX particularly gratifying ;-)
 
 I've proven to myself that I am end to end capable. Inception -> Deploy.
 
-Skillswise, I would say the crossbasr of my 'T' is in good shape while always benefitting from additional depth. Always.
+Skillswise, I would say the crossbasr of my 'T' is in good shape while always benefitting from additional depth.
 
-Ego is the Enemy.
-
-I am initially looking for short term freelance/contract work with SMART delivarables.
+I am initially open to short term freelance/contract work with SMART delivarables.
 
 This would give me an alpha test of my value and allow me to calibrate my Consultancy.
