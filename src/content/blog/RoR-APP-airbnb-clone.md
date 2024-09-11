@@ -1,8 +1,8 @@
 ---
 author: Rob Craig
 pubDatetime: 2024-06-01T15:57:52.737Z
-title: RoR-APP-blog-demo-0
-postSlug: RoR-APP-blog-demo-0
+title: RoR-APP-airbnb-clone
+postSlug: RoR-APP-airbnb-clone-0
 featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
@@ -10,7 +10,7 @@ tags:
   - ruby-on-rails
   - cloud-run
   - docker
-description: RoR App - Blog env - 2
+description: RoR App - airbnb clone
 ---
 
 # test
