@@ -1,19 +1,19 @@
 ---
 author: Rob Craig
 pubDatetime: 2024-06-01T15:57:52.737Z
-title: RoR-APP-alpha-blog
-postSlug: RoR-APP-alpha-blog
+title: RoR-APP-airbnb
+postSlug: RoR-APP-airbnb
 featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
-  - alpha-blog
+  - airbnb
   - ruby-on-rails
   - cloud-run
   - docker
 description: Ruby on Rails App - multi-user Blog env
 ---
 
-## <a href="https://robertlockhart.com/" target="_blank">alpha blog</a>
+## <a href="https://robertlockhart.com/" target="_blank">airbnb</a>
 
 - ### overview
 
