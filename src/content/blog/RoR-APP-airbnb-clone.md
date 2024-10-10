@@ -16,9 +16,15 @@ description: RoR App - airbnb clone
 # test
 
 - ## [devise](https://github.com/heartcombo/devise)
+  - ### social signup
 - ## [stimulus-rails](https://github.com/hotwired/stimulus-railss)
 - ## [noticed gem](https://github.com/excid3/noticed)
 - ## [el-transition](https://www.npmjs.com/package/el-transition)
+- ## [login/signup]()
+  - ## [Modal login/signup form]()
+    - ## javascript for dynamic signup vs login
+    - ## dynamic form validation
+      - ## [How to Validate Forms with Bootstrap 5](https://designmodo.com/validate-forms-bootstrap/)
 <!--
 
 ## <a href="https://robertlockhart.com/" target="_blank">alpha blog</a>
