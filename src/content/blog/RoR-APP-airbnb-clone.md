@@ -15,6 +15,12 @@ description: RoR App - airbnb clone
 
 # test
 
+- ## [geocoder](https://github.com/alexreisner/geocoder)
+  - ## [Geocoding with Ruby](https://dev.to/daviducolo/geocoding-with-ruby-4229)
+    - distance from USERS location to Destination
+      - if NOT logged in use location of IP
+      - if LOGGED in use PROFILE home address
+- ## stimulus
 - ## [devise](https://github.com/heartcombo/devise)
   - ### social signup
 - ## [stimulus-rails](https://github.com/hotwired/stimulus-railss)
