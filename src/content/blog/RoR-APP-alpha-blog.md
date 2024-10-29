@@ -18,15 +18,15 @@ description: Ruby on Rails App - multi-user Blog env
 
 ## Multi-user blog environment.
 
-- ## link
+- ### link
   - USERNAME: demo@heidless-app-0.com
   - PASSWORD: password
 
-- ## Bloggers
+- ### Bloggers
   - List all Bloggers registerd with the site (including 'Admin')
   - All Users visible including their Articles
 
-- ## Articles
+- ### Articles
   - create New Articles for current user
   - 'View Articles'
     - List ALL articles for ALL users
@@ -34,19 +34,19 @@ description: Ruby on Rails App - multi-user Blog env
     - choose from list of categories
     - new categories create under 'Catogories' menu
 
-- ## Categories
+- ### Categories
   - 'Create New Category'
     - ONLY Available to Admin user
     - does what it says on the tin
   - 'View Categories': lists all available categories for selection with Articles
   - All Categories available to All Users
 
-- ## Profile(s)
+- ### Profile(s)
   - List ALL Users
 
 ---
 
-## tech info
+### tech info
 - Rails 6
 - Google Cloud 
   - Postgres
