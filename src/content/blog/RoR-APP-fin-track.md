@@ -17,8 +17,7 @@ description: Ruby on Rails App - finance tracker & social network
 
 ## [fin track](https://fin-track-0-svc-d57dc7eqba-ew.a.run.app/)
 
-- ### overview
-
+- ## overview
   - Multi-User Stock Tracking environment.
   - Build personal portfolio of stocks of interest.
   - Specify 'friends' within site.
@@ -27,14 +26,10 @@ description: Ruby on Rails App - finance tracker & social network
     - Stock functionality needs remediating.
     - Social Networking functionnality still operational
 
-- ### link
+- ## login
+  - USERNAME: demo@heidless-app-0.com
+  - PASSWORD: password
 
-  - <a href="https://naught4profit.com/" target="_blank">fin track</a>
-
-- ### Profile(s)
-
-  - Login available on request...
-
-- ### integrations
-  - #### devise
+- ## integrations
+  - ### devise
     - basic functionality to robustly handle user registrations & mgmt

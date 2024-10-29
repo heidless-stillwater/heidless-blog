@@ -13,32 +13,20 @@ tags:
 description: Ruby on Rails App - multi-user Blog env
 ---
 
-## <a href="https://alpha-blog-svc-590618864324.europe-west1.run.app/" target="_blank">alpha blog</a>
+## [alpha blog](https://alpha-blog-svc-590618864324.europe-west1.run.app/)
+#
 
-## Tech Info
-- Rails 6
-- Google Cloud 
-  - Postgres
-  - Credentials via Secret Mgr
+## Multi-user blog environment.
 
-- ### overview
+- ## link
+  - USERNAME: demo@heidless-app-0.com
+  - PASSWORD: password
 
-  - Multi-user blog environment.
-
-- ### link
-
-  - <a href="https://robertlockhart.com/" target="_blank">alpha blog</a>
-    - DEMO LOGIN:
-    - USERNAME: demo@heidless-app-0.com
-    - PASSWORD: password
-
-- ### Bloggers
-
+- ## Bloggers
   - List all Bloggers registerd with the site (including 'Admin')
   - All Users visible including their Articles
 
-- ### Articles
-
+- ## Articles
   - create New Articles for current user
   - 'View Articles'
     - List ALL articles for ALL users
@@ -46,13 +34,20 @@ description: Ruby on Rails App - multi-user Blog env
     - choose from list of categories
     - new categories create under 'Catogories' menu
 
-- ### Categories
-
+- ## Categories
   - 'Create New Category'
     - ONLY Available to Admin user
     - does what it says on the tin
   - 'View Categories': lists all available categories for selection with Articles
   - All Categories available to All Users
 
-- ### Profile(s)
+- ## Profile(s)
   - List ALL Users
+
+---
+
+## tech info
+- Rails 6
+- Google Cloud 
+  - Postgres
+  - Credentials via Secret Mgr

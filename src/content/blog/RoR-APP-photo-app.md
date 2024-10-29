@@ -19,29 +19,21 @@ tags:
 description: Ruby on Rails App - photo mgmnt app
 ---
 
-## <a href="https://fundingcloud.co.uk/" target="_blank">photo app</a>
+## <a href="https://photo-app-svc-590618864324.europe-west1.run.app" target="_blank">photo app</a>
+#
+### login
+- USERNAME: demo@heidless-app-0.com
+- PASSWORD: password
 
-- ### link
-
-  - <a href="https://fundingcloud.co.uk/" target="_blank">photo app</a>
-
-- ### login
-
-  - Login available on request...
-
-- ### integrations
-
+### integrations
   - ### devise
-
     - registration confirmation by email
     - activation via email
 
   - ### sendgrid
-
     - proxy enable email comms via app
 
   - ### Google Cloud Domain Mapping
-
     - allows use of a Curstom Domain
     - used to enable sendgrid email comms
 

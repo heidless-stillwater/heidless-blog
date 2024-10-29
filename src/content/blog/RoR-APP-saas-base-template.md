@@ -15,19 +15,41 @@ tags:
 description: Ruby on Rails App - RoR-APP-saas-base-template
 ---
 
-## [SaaS Base Template](https://alpha-blog-svc-590618864324.europe-west1.run.app/)
+## <a href="https://alpha-blog-svc-590618864324.europe-west1.run.app/" target="_blank">SaaS Base Framework</a>
 #
+Goal is to be able to quickly spin up a fully provisioned new SaaS project.
 
-- ### link
-  - USERNAME: demo@heidless-app-0.com
-  - PASSWORD: password
+The 'standard' SaaS functionality is available out-of-the-box.
+
+Allows focus on what makes the app unique.
+
+Current 'standard' functionality:
+
+- Devise Credentials Mgmt
+
+  - Standard sign-up & sign-in functionality
+  - Email Confirmation of Sign-Up
+
+- SendGrid (twilio interface)
+
+  - SignUp Confirmation
+  - Verified by email
+
+- Stripe
+  - Credit Card Processing
+  - SignUp dependent on successful payment
+
+
+### login
+- USERNAME: demo@heidless-app-0.com
+- PASSWORD: password
 
 
 
-- ## Tech Info
-  - Rails 6
-  - Google Cloud 
-    - Postgres
-    - Credentials via Secret Mgr
-  - Devise User Mgmt
-  - Stripe Payment Integration
+### Tech Info
+- Rails 6
+- Google Cloud 
+  - Postgres
+  - Credentials via Secret Mgr
+- Devise User Mgmt
+- Stripe Payment Integration

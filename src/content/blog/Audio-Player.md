@@ -11,15 +11,11 @@ tags:
 description: React App - Pre-loaded Audio Player
 ---
 
-## <a href="https://audio-player-pfolio-live.vercel.app/" target="_blank">audio player</a>
-
-- ### link
-
-  - <a href="https://audio-player-pfolio-live.vercel.app/" target="_blank">audio player</a>
-
-- ### playlist
-  - ### J.A.D.
-  - ### Drive
-  - ### Wayfaring Stranger
-  - ### Postal
-  - ### Stone Me
+## [audio player](https://audio-player-pfolio-live.vercel.app/)
+#
+## playlist
+- ## J.A.D.
+- ## Drive
+- ## Wayfaring Stranger
+- ## Postal
+- ## Stone Me
