@@ -16,15 +16,9 @@ tags:
 description: RoR App - airbnb clone
 ---
 
-## [airbnb clone](https://airbnb-app-1-svc-590618864324.europe-west1.run.app/)
-
-## login
-
-    - USERNAME: demo@heidless-app-0.com
-    - PASSWORD: password
+# [airbnb clone](https://airbnb-app-1-svc-590618864324.europe-west1.run.app/)
 
 ## description
-- Clone of AirBnb Site.
 - WIP: Implementation to date:
   - SignUp/SignIn functionality
     - Modal Pop Up
@@ -40,3 +34,7 @@ description: RoR App - airbnb clone
 - ### stimulus: javascript functionality
   - modal login/signup popup
   - dynamic form validation
+
+## login
+    - USERNAME: demo@heidless-app-0.com
+    - PASSWORD: password
