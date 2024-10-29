@@ -16,15 +16,14 @@ tags:
 description: RoR App - airbnb clone
 ---
 
+## [airbnb clone](https://airbnb-app-1-svc-590618864324.europe-west1.run.app/)
+
 ## login
 
-- ### [airbnb clone](https://airbnb-app-1-svc-590618864324.europe-west1.run.app/)
-  - DEMO LOGIN:
     - USERNAME: demo@heidless-app-0.com
     - PASSWORD: password
 
 ## description
-
 - Clone of AirBnb Site.
 - WIP: Implementation to date:
   - SignUp/SignIn functionality
@@ -32,9 +31,7 @@ description: RoR App - airbnb clone
     - Seed test users by DB Migration
 
 ## key functionality
-
 - ### custom domain mapping:
-  - ### [heidless.co.uk](https://heidless.co.uk)
 - ### geocoding
   - distance from USERS location to Destination
     - if NOT logged in use location of IP
@@ -43,5 +40,3 @@ description: RoR App - airbnb clone
 - ### stimulus: javascript functionality
   - modal login/signup popup
   - dynamic form validation
-
-## Misc

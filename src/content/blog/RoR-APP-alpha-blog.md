@@ -46,7 +46,7 @@ description: Ruby on Rails App - multi-user Blog env
 
 ---
 
-### tech info
+## tech info
 - Rails 6
 - Google Cloud 
   - Postgres
