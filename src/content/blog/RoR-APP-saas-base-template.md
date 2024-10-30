@@ -26,12 +26,10 @@ Allows focus on what makes the app unique.
 Current 'standard' functionality:
 
 - Devise Credentials Mgmt
-
   - Standard sign-up & sign-in functionality
-  - Email Confirmation of Sign-Up
+  - Email Confirmation ()& activation) of Sign-Up
 
 - SendGrid (twilio interface)
-
   - SignUp Confirmation
   - Verified by email
 
@@ -45,11 +43,11 @@ Current 'standard' functionality:
 - PASSWORD: password
 
 
-
 ### Tech Info
 - Rails 6
 - Google Cloud 
+  - Domain Mapping
   - Postgres
-  - Credentials via Secret Mgr
+  - Credentials via Rails Credentials & Goole Secret Mgr
 - Devise User Mgmt
 - Stripe Payment Integration
