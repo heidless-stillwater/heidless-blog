@@ -12,5 +12,8 @@ description: MISC-git-finder-app
 ---
 
 
-## <a href="https://github-finder-f0rjnn3as-heidlessstillwaters-projects.vercel.app/" target="_blank">git finder app</a>
+## <a href="https://heidless-pfolio-frontend-4-865665966029.europe-west2.run.app/#demos"  target="_blank">Portfolio Entry: git finder app</a>
+#
 
+## <a href="https://github-finder-f0rjnn3as-heidlessstillwaters-projects.vercel.app/" target="_blank">App: git finder app</a>
+#

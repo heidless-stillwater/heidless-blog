@@ -11,6 +11,8 @@ tags:
 description: MISC-flight-ticker-app
 ---
 
+## <a href="https://heidless-pfolio-frontend-4-865665966029.europe-west2.run.app/#demos"  target="_blank">Portfolio Entry: flight ticker app</a>
+#
 
-## <a href="https://flight-widget-vanilla-javascript.vercel.app/" target="_blank">flight ticker app</a>
-
+## <a href="https://flight-widget-vanilla-javascript.vercel.app/" target="_blank">App: flight ticker app</a>
+#

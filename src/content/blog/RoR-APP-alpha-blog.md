@@ -13,7 +13,10 @@ tags:
 description: Ruby on Rails App - multi-user Blog env
 ---
 
-## [alpha blog](https://alpha-blog-svc-590618864324.europe-west1.run.app/)
+## <a href="https://heidless-pfolio-frontend-4-865665966029.europe-west2.run.app/#samples"  target="_blank">Portfolio Entry: alpha blog</a>
+#
+
+## <a href="https://alpha-blog-svc-590618864324.europe-west1.run.app/"  target="_blank">App: alpha blog</a>
 #
 
 ## Multi-user blog environment.
@@ -43,8 +46,6 @@ description: Ruby on Rails App - multi-user Blog env
 
 - ### Profile(s)
   - List ALL Users
-
----
 
 ## tech info
 - Rails 6

@@ -15,7 +15,12 @@ tags:
 description: Ruby on Rails App - finance tracker & social network
 ---
 
-## [fin track](https://fin-track-0-svc-d57dc7eqba-ew.a.run.app/)
+
+## <a href="https://heidless-pfolio-frontend-4-865665966029.europe-west2.run.app/#samples"  target="_blank">Portfolio Entry: alpha blog</a>
+#
+
+## <a href="https://fin-track-0-svc-d57dc7eqba-ew.a.run.app/"  target="_blank">App: fin track</a>
+#
 
 - ## overview
   - Multi-User Stock Tracking environment.

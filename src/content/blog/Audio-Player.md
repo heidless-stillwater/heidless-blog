@@ -11,8 +11,13 @@ tags:
 description: React App - Pre-loaded Audio Player
 ---
 
-## [audio player](https://audio-player-pfolio-live.vercel.app/)
+
+## <a href="https://heidless-pfolio-frontend-4-865665966029.europe-west2.run.app/#demos"  target="_blank">Portfolio Entry: audio player</a>
 #
+
+## <a href="https://audio-player-pfolio-live.vercel.app/"  target="_blank">App: audio player</a>
+#
+
 ## playlist
 - ## J.A.D.
 - ## Drive

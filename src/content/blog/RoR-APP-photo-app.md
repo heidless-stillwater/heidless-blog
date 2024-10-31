@@ -21,6 +21,7 @@ description: Ruby on Rails App - photo mgmnt app
 
 ## <a href="https://photo-app-svc-590618864324.europe-west1.run.app" target="_blank">photo app</a>
 #
+
 ### login
 - USERNAME: demo@heidless-app-0.com
 - PASSWORD: password
