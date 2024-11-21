@@ -15,11 +15,7 @@ tags:
 description: Ruby on Rails App - RoR-APP-saas-base-template
 ---
 
-
-## <a href="https://heidless-pfolio-frontend-4-865665966029.europe-west2.run.app/#samples"  target="_blank">Portfolio Entry: SaaS Base Template</a>
-#
-
-## <a href="https://alpha-blog-svc-590618864324.europe-west1.run.app/" target="_blank">SaaS Base Template</a>
+## <a href="https://rails-v6-1-7-base-0-svc-1089619978780.europe-west1.run.app/" target="_blank">App Name: SaaS Base Template</a>
 #
 
 Goal is to be able to quickly spin up a fully provisioned new SaaS project.

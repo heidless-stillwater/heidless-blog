@@ -17,10 +17,7 @@ description: RoR App - airbnb clone
 ---
 
 
-## <a href="https://heidless-pfolio-frontend-4-865665966029.europe-west2.run.app/#demos"  target="_blank">Portfolio Entry: airbnb clone</a>
-#
-
-## <a href="https://airbnb-app-1-svc-590618864324.europe-west1.run.app/"  target="_blank">App: airbnb clone</a>
+## <a href="https://airbnb-app-svc-1089619978780.europe-west1.run.app/"  target="_blank">App: airbnb clone</a>
 #
 
 ### login
