@@ -27,6 +27,9 @@ src/pages/index.astro
 
 ```
 
+# [How to send mail with Astrojs](https://hervy.se/blog/sending-mail-with-astrojs/)
+
+
 - ## update deployment
 
   - ### refresh git to update deployment
