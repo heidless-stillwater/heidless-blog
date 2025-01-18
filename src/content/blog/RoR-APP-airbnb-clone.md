@@ -16,21 +16,24 @@ tags:
 description: RoR App - airbnb clone
 ---
 
-
 ## <a href="https://airbnb-app-svc-1089619978780.europe-west1.run.app/"  target="_blank">App: airbnb clone</a>
+
 #
 
 ### login
+
 - USERNAME: demo@heidless-app-0.com
 - PASSWORD: password
 
 ### description
+
 - WIP: Implementation to date:
   - SignUp/SignIn functionality
     - Modal Pop Up
     - Seed test users by DB Migration
 
 ### key functionality
+
 - ### custom domain mapping:
 - ### geocoding
   - distance from USERS location to Destination
@@ -40,3 +43,4 @@ description: RoR App - airbnb clone
 - ### stimulus: javascript functionality
   - modal login/signup popup
   - dynamic form validation
+  - 'favorite' property
