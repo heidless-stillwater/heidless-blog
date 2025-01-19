@@ -26,10 +26,12 @@ Backends enabled thru:
 - Cloud Storage
 - Cloud SQL (POSTGRES)
 - App Engine
-  - <a href="https://photo-app-svc-590618864324.europe-west1.run.app" target="_blank">Example: dJango Backend</a>
+
+  - <a href="https://h-pfolio-1.nw.r.appspot.com/admin/" target="_blank">Example: dJango Backend</a>
 
 - Cloud Run (Docker)
-  - <a href="https://main--scrumming-it.netlify.app/posts/ror-app-alpha-blog/" target="_blank">Example: Ruby on Rails Apps</a>
+
+  - <a href="https://airbnb-clone-v1-svc-58856964484.europe-west1.run.app/" target="_blank">Example: Ruby on Rails Apps</a>
 
 - Secret Mgr
 
@@ -37,8 +39,7 @@ Frontends enabled thru:
 
 - Docker (Rails & REACT)
 - Cloud Run
-  - <a href="https://heidless-pfolio-frontend-4-865665966029.europe-west2.run.app/" target="_blank">Example: pFolio Frontend</a>
-
+  - <a href="https://pfolio-frontend-v1-svc-58856964484.europe-west2.run.app/" target="_blank">Example: pFolio Frontend</a>
 
 ## AWS S3
 
