@@ -13,20 +13,24 @@ tags:
 description: Ruby on Rails App - multi-user Blog env
 ---
 
-## <a href="https://alpha-blog-svc-1089619978780.europe-west1.run.app/"  target="_blank">App: alpha blog</a>
+## <a href="https://alpha-blog-svc-58856964484.europe-west1.run.app/"  target="_blank">App: alpha blog</a>
+
 #
 
 ## Multi-user blog environment.
 
 - ### link
+
   - USERNAME: demo@heidless-app-0.com
   - PASSWORD: password
 
 - ### Bloggers
+
   - List all Bloggers registerd with the site (including 'Admin')
   - All Users visible including their Articles
 
 - ### Articles
+
   - create New Articles for current user
   - 'View Articles'
     - List ALL articles for ALL users
@@ -35,6 +39,7 @@ description: Ruby on Rails App - multi-user Blog env
     - new categories create under 'Catogories' menu
 
 - ### Categories
+
   - 'Create New Category'
     - ONLY Available to Admin user
     - does what it says on the tin
@@ -45,7 +50,8 @@ description: Ruby on Rails App - multi-user Blog env
   - List ALL Users
 
 ## tech info
+
 - Rails 6
-- Google Cloud 
+- Google Cloud
   - Postgres
   - Credentials via Secret Mgr

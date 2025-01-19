@@ -20,25 +20,31 @@ description: Ruby on Rails App - photo mgmnt app
 ---
 
 ## <a href="https://photo-app-svc-590618864324.europe-west1.run.app" target="_blank">photo app</a>
+
 #
 
 ### login
+
 - USERNAME: demo@heidless-app-0.com
 - PASSWORD: password
 
 ### integrations
-  - ### devise
-    - registration confirmation by email
-    - activation via email
 
-  - ### sendgrid
-    - proxy enable email comms via app
+- ### devise
 
-  - ### Google Cloud Domain Mapping
-    - allows use of a Curstom Domain
-    - used to enable sendgrid email comms
+  - registration confirmation by email
+  - activation via email
 
-  - ### active_record
-    - used to enable image persistence
-      - uses AWS S3 for image storage
-    - live deploy uses Google Cloud
+- ### sendgrid
+
+  - proxy enable email comms via app
+
+- ### Google Cloud Domain Mapping
+
+  - allows use of a Curstom Domain
+  - used to enable sendgrid email comms
+
+- ### active_record
+  - used to enable image persistence
+    - uses AWS S3 for image storage
+  - live deploy uses Google Cloud
