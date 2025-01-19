@@ -16,7 +16,7 @@ tags:
 description: RoR App - airbnb clone
 ---
 
-## <a href="https://airbnb-app-svc-1089619978780.europe-west1.run.app/"  target="_blank">App: airbnb clone</a>
+## <a href="https://airbnb-clone-v1-svc-b572hemhnq-ew.a.run.app/"  target="_blank">App: airbnb clone</a>
 
 #
 
