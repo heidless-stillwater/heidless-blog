@@ -75,13 +75,13 @@ Rob Craig
 
 - #### [ScrummingIT: Blog](https://main--scrumming-it.netlify.app/posts/job-hunt/)
 
-<br />
+- #### [ScrummingIT: Expanded Profile (THIS POST)](https://main--scrumming-it.netlify.app/posts/rob-expanded-profile/)
 
 ### Portfolio is enabled thru the following Stack
 
 Full Stack deployment for Ruby on Rails, dJango & REACT, python, tensorflow, streamlit etc
 
-Backends enabled thru:
+#### Backends enabled thru:
 
 - Cloud Storage
 - Cloud SQL (POSTGRES)
@@ -91,7 +91,7 @@ Backends enabled thru:
 
 - Secret Mgr
 
-### Frontends enabled thru:
+#### Frontends enabled thru:
 
 - #### Docker (Rails & REACT)
 
@@ -101,6 +101,10 @@ Backends enabled thru:
 
 - #### Cloud Run
   - <a href="https://popdash-58856964484.europe-west2.run.app//" target="_blank">Example: Streamlit Dashboards</a>
+
+<br />
+
+---
 
 #### ADDENDUM:
 
