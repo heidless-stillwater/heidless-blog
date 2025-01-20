@@ -23,21 +23,21 @@ Hello,
 
 My name is Robert Craig.
 
-I am a former Scrum Master looking to return to the role of Developer - specifically within the SaSS, Data Science & AI arena.
+I am a former Scrum Master looking to return to the role of **Developer** - specifically within the **SaSS**, **Data Science** & **AI** arena.
 
-My areas of technical expertise are Ruby on Rails, Python, Django, PostgreSQL, Google Cloud Platform, Linux
+My areas of technical expertise are **Ruby on Rails**, **Python**, **Django**, **PostgreSQL**, **Google Cloud Platform (GCP)**, **Linux**
 
-BSc Computer Science (Distinction) - 1990 & recently - Google Advanced Data Analytics Certification.
+**BSc Computer Science (Distinction)** - 1990 & recently - **Google Advanced Data Analytics Certification**.
 
 Ultimately, I intend to set up my own SaSS offering.
 
-In the meantime, I have been tooling up in preparation for the past 2+ years and believe my current skill set would be of value in the market.
-
 I have been out of the industry for the past few years due to ill health. I am now fully recovered & fit to work. More details below.
+
+In the meantime, I have been tooling up in preparation for the past 2+ years and believe my current skill set would be of value in the market.
 
 I am very much open to advice. I am keen to prove myself to the market & myself.
 
-So, I am taking the advice I would give to a team member in a similar position & looking for a mid-level developer role to prove, enhance & consolidate my skills
+So, I am taking the advice I would give to a team member in a similar position & looking for a mid-level developer role to prove, consolidate & enhanc my skills
 
 My current view of the initial ideal role is as follows:
 
