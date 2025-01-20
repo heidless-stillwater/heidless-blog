@@ -71,11 +71,13 @@ Rob Craig
 
 #### RESOURCES:
 
-#### [ScrummingIT: Portfolio](https://pfolio-frontend-v1-svc-b572hemhnq-nw.a.run.app/)
+- #### [ScrummingIT: Portfolio](https://pfolio-frontend-v1-svc-b572hemhnq-nw.a.run.app/)
 
-#### [ScrummingIT: Blog](https://main--scrumming-it.netlify.app/posts/job-hunt/)
+- #### [ScrummingIT: Blog](https://main--scrumming-it.netlify.app/posts/job-hunt/)
 
-## Portfolio is enabled thru the following Stack
+<br />
+
+### Portfolio is enabled thru the following Stack
 
 Full Stack deployment for Ruby on Rails, dJango & REACT, python, tensorflow, streamlit etc
 
