@@ -112,4 +112,4 @@ I am now mostly through all that and can provide medical proof if required.
 
 The only issue is I have been left with some mobility issues in the form of sporadic and unpredictable pain when walking. It is manageable and will not affect my ability to fulfill my role - as long as it is desk-based.
 
-My preference is that I would habitually/normally work remotely - however, it is perfectly feasible & reasonable for me to attend meetings as required/agreed - I’m assuming these would be London-based.
+My preference is that I would habitually/normally work remotely - however, it is perfectly feasible & reasonable for me to attend meetings as required/agreed.
