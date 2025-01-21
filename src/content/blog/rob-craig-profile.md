@@ -31,7 +31,7 @@ My areas of technical expertise are **Ruby on Rails**, **Python**, **Django**, *
 
 Ultimately, I intend to set up my own SaSS offering.
 
-I have been out of the industry for the past few years due to ill health. I am now fully recovered & fit to work. More details below.
+I have been out of the industry for the past few years due to ill health. I am now fully recovered & fit to work. More details at boottom of this post.
 
 In the meantime, I have been tooling up in preparation for the past 2+ years and believe my current skill set would be of value in the market.
 
@@ -73,7 +73,7 @@ Rob Craig
 
 - #### [ScrummingIT: Portfolio](https://pfolio-frontend-v1-svc-b572hemhnq-nw.a.run.app/)
 
-- #### [ScrummingIT: Blog](https://main--scrumming-it.netlify.app/posts/job-hunt/)
+- #### [ScrummingIT: Blog (THIS SITE)](https://main--scrumming-it.netlify.app/posts/job-hunt/)
 
 - #### [ScrummingIT: Expanded Profile (THIS POST)](https://main--scrumming-it.netlify.app/posts/rob-expanded-profile/)
 
@@ -101,8 +101,6 @@ Full Stack deployment for Ruby on Rails, dJango & REACT, python, tensorflow, str
 
 - #### Cloud Run
   - <a href="https://popdash-58856964484.europe-west2.run.app//" target="_blank">Example: Streamlit Dashboards</a>
-
-<br />
 
 ---
 
