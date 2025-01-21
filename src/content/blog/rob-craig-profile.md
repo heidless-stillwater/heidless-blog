@@ -37,7 +37,7 @@ In the meantime, I have been tooling up in preparation for the past 2+ years and
 
 I am very much open to advice. I am keen to prove myself to the market & myself.
 
-So, I am taking the advice I would give to a team member in a similar position & looking for a mid-level developer role to prove, consolidate & enhanc my skills
+So, I am taking the advice I would give to a team member in a similar position & looking for a mid-level developer role to prove, consolidate & enhance my skills
 
 My current view of the initial ideal role is as follows:
 
