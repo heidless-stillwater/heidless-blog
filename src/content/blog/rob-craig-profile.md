@@ -71,7 +71,7 @@ Rob Craig
 
 #### RESOURCES:
 
-- #### [ScrummingIT: Portfolio](https://pfolio-frontend-v1-svc-b572hemhnq-nw.a.run.app/)
+- #### <a href="https://pfolio-frontend-v1-svc-b572hemhnq-nw.a.run.app/" target="_blank">ScrummingIT: Portfolio</a>
 
 - #### [ScrummingIT: Blog (THIS SITE)](https://main--scrumming-it.netlify.app/posts/job-hunt/)
 
