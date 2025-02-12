@@ -17,8 +17,6 @@ tags:
 description: Rob Craig - Expanded Profile
 ---
 
-## Rob Craig - Expanded Profile
-
 Hello,
 
 My name is Robert Craig.
