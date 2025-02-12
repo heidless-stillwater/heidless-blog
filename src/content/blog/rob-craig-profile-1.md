@@ -31,7 +31,7 @@ My areas of technical expertise are **Ruby on Rails**, **Python**, **Django**, *
 
 Ultimately, I intend to set up my own SaSS offering.
 
-I have been out of the industry for the past few years due to ill health. I am now fully recovered & fit to work. More details at boottom of this post.
+I have been out of the industry for the past few years due to ill health. I am now fully recovered & fit to work. More details at bottom of this post.
 
 In the meantime, I have been tooling up in preparation for the past 2+ years and believe my current skill set would be of value in the market.
 
@@ -41,33 +41,20 @@ So, I am taking the advice I would give to a team member in a similar position &
 
 My current view of the initial ideal role is as follows:
 
-- Short Term contract - 3->6 months within IR35
 - S.M.A.R.T deliverables
   - Just in case: Specific, Measurable, Achievable, Realistic, Time Based
 - I accept there may be an element of scut work.
   - That is no problem in the short term as I prove myself.
 - I am particularly enthused by maintaining the tools/environment as well as using those tools.
-- I may be able to make a positive contribution in a DevOps environment.
+- I may be able to make a positive contribution in a DevOps/Data Engineering role.
   - I manage & maintain my own development/deployment environment from inception to live (GCP)
-  - My focus is on automating, streamlining and harden- The role may involve refactoring, remediation, documentation, test-coverage
+  - My focus is on automating, streamlining and hardening. The role may involve refactoring, remediation, documentation, test-coverage
 - Ideally, the role would provide exposure to SaSS, Data Science & A.I.
   - I would be particularly interested in a role supporting any of these areas.
 
 Given I’d be an unknown quantity initially, I am likely to cost less than most.
 
 Consequently, I would be open to opportunities within the Charitable/Public sector should that be relevant.
-
-As I said, I am very open to advice and ideally could use coaching to navigate my return to the industry.
-
-Might that be of interest to you or a colleague?
-
-A brief chat would likely be invaluable as a reality and opportunity check.
-
-I look forward to hearing from you.
-
-Many thanks in advance.
-
-Rob Craig
 
 #### RESOURCES:
 
@@ -81,7 +68,7 @@ Rob Craig
 
 Full Stack deployment for Ruby on Rails, dJango & REACT, python, tensorflow, streamlit etc
 
-#### Backends enabled thru:
+#### Backends enabled thru Google Cloud Platform (GCP):
 
 - Cloud Storage
 - Cloud SQL (POSTGRES)
