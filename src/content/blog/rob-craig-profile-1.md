@@ -21,6 +21,8 @@ Hello,
 
 My name is Robert Craig.
 
+email: **lockhart.r@gmail.com**
+
 I am a former Scrum Master looking to return to the role of **Developer** - specifically within the **SaSS**, **Data Science** & **AI** arena.
 
 My areas of technical expertise are **Ruby on Rails**, **Python**, **Django**, **PostgreSQL**, **Google Cloud Platform (GCP)**, **Linux**
@@ -31,7 +33,7 @@ Ultimately, I intend to set up my own SaSS offering.
 
 I have been out of the industry for the past few years due to ill health. I am now fully recovered & fit to work. More details at bottom of this post.
 
-In the meantime, I have been tooling up in preparation for the past 2+ years and believe my current skill set would be of value in the market.
+In the meantime, I have been tooling up in preparation for the past 3+ years and believe my current skill set would be of value in the market.
 
 I am very much open to advice. I am keen to prove myself to the market & myself.
 
