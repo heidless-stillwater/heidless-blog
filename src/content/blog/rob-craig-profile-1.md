@@ -29,7 +29,9 @@ My areas of technical expertise are **Ruby on Rails**, **Python**, **Django**, *
 
 **BSc Computer Science (Distinction)** - 1990 & recently - **Google Advanced Data Analytics Certification**.
 
-Ultimately, I intend to set up my own SaSS offering.
+My first role was with SUN Microsystems (subsequently bought by Oracle). I then worked in The City on Y2K remediation and the introduction of the Euro. Subsequent to that I changed career to the Arts - returning to IT in 2012 as Dev/Scrum Master.
+
+Ultimately, I intend to set up my own SaSS offerings.
 
 I have been out of the industry for the past few years due to ill health. I am now fully recovered & fit to work. More details at bottom of this post.
 
