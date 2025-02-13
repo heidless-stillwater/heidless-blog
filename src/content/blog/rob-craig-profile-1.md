@@ -35,8 +35,6 @@ I have been out of the industry for the past while due to ill health. I am now f
 
 In the meantime, I have been tooling up in preparation for the past 3+ years and believe my current skill set would be of value in the market.
 
-I am very much open to advice. I am keen to prove myself to the market & myself.
-
 So, I am taking the advice I would give to a team member in a similar position & looking for a mid-level developer role to prove, consolidate & enhance my skills
 
 My current view of the initial ideal role is as follows:
@@ -51,10 +49,6 @@ My current view of the initial ideal role is as follows:
   - My focus is on automating, streamlining and hardening. The role may involve refactoring, remediation, documentation, test-coverage
 - Ideally, the role would provide exposure to SaSS, Data Science & A.I.
   - I would be particularly interested in a role supporting any of these areas.
-
-Given I’d be an unknown quantity initially, I am likely to cost less than most.
-
-Consequently, I would be open to opportunities within the Charitable/Public sector should that be relevant.
 
 #### RESOURCES:
 
@@ -80,7 +74,7 @@ Full Stack deployment for Ruby on Rails, dJango & REACT, python, tensorflow, str
 
 #### Frontends enabled thru:
 
-- #### Docker (Rails & REACT)
+- #### Docker (Rails/NextJS/React
 
   - <a href="https://airbnb-clone-v1-svc-58856964484.europe-west1.run.app/" target="_blank">Example: AirBnB clone - WIP</a>
 
