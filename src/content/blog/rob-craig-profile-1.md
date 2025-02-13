@@ -31,7 +31,7 @@ My areas of technical expertise are **Ruby on Rails**, **Python**, **Django**, *
 
 My first role was as a Developer with SUN Microsystems (subsequently bought by Oracle). I then worked in The City on Y2K remediation and the introduction of the Euro. Subsequent to that I took time out in the Arts - returning to IT in 2012 as Dev/Scrum Master.
 
-I have been out of the industry for the past while due to ill health. I am now fully recovered & fit to work. More details at bottom of this post.
+I have been out of the industry for the past while due to ill health. I am now fully recovered & fit to work. More details at the bottom of this post.
 
 In the meantime, I have been tooling up in preparation for the past 3+ years and believe my current skill set would be of value in the market.
 
